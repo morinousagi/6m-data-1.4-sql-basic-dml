@@ -29,6 +29,6 @@ Watch this - 🎬 [Intro to SQL DML](https://youtu.be/SbtP9O6qOAA?si=94M75fLMsQt
 
 4. **Verification:** Run follow SQL  
 ```sql
-SELECT \* FROM resale_flat_prices_2017 LIMIT 5
+SELECT * FROM resale_flat_prices_2017 LIMIT 5
 ```
 to ensure you can see the Singapore HDB data.
